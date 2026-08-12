@@ -1,0 +1,50 @@
+#welcome {
+	text-align: center;
+	padding: 3rem 1rem;
+}
+flex-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+flex-container article {
+  width: 32%;
+}
+article {
+  background-color: limegreen;
+}
+form {
+	border: 2px solid black;
+	margin: 2rem 10rem;
+	padding:5%;
+background-color:blue;
+}
+h2{
+text-align: center;
+text-decoration: underline;
+color: blue;}
+
+#button{
+	display:block;
+margin: auto;}
+
+footer{ 
+text-align:center;}
+	
+body{
+background-color:yellow;}
+
+.photo{
+width:55%;
+border: 3px solid red;}
+
+h1{
+color:blue;}
+
+h3{
+color: white;}
+
+
+nav {
+	display:flex;
+justify-content:center;}
